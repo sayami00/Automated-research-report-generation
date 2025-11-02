@@ -7,3 +7,7 @@ langchain-openai
 langchain-google-genai
 langchain-groq
 structlog
+python-docx
+reportlab
+
+-e .
